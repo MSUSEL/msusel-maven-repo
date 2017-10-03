@@ -3,10 +3,11 @@
   <groupId>edu.montana.gsoc.msusel.sonar</groupId>
   <artifactId>msusel-parent</artifactId>
   <versioning>
-    <release>1.1.2</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.1.2</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20171003174207</lastUpdated>
+    <lastUpdated>20171003174235</lastUpdated>
   </versioning>
 </metadata>
