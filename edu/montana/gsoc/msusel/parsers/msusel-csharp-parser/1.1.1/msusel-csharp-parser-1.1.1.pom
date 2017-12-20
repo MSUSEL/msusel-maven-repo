@@ -156,7 +156,7 @@
 				<enabled>false</enabled>
 			</snapshots>
 
-			<url>https://raw.github.com/MSUSEL/msusel-maven-repo.git/master</url>
+			<url>git:releases://git@github.com:MSUSEL/msusel-maven-repo.git</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
