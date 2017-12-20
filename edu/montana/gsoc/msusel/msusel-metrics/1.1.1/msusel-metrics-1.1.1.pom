@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>msusel-metrics</artifactId>
 
@@ -89,17 +89,6 @@
 					<dependencyLocationsEnabled>false</dependencyLocationsEnabled>
 				</configuration>
 			</plugin>
-			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>cobertura-maven-plugin</artifactId>
-				<version>2.7</version>
-				<configuration>
-					<formats>
-						<format>html</format>
-						<format>xml</format>
-					</formats>
-				</configuration>
-			</plugin>
 		</plugins>
 	</reporting>
 	<organization>
@@ -117,7 +106,7 @@
 				<enabled>false</enabled>
 			</snapshots>
 
-			<url>https://raw.github.com/MSUSEL/msusel-maven-repo.git/master</url>
+			<url>git:releases://git@github.com:MSUSEL/msusel-maven-repo.git</url>
 		</repository>
 	</repositories>
 	<pluginRepositories>
@@ -136,3 +125,4 @@
 	<groupId>edu.montana.gsoc.msusel</groupId>
 	<version>${msusel.version}</version>
 </project>
+
