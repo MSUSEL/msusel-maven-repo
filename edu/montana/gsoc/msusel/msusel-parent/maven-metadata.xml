@@ -3,11 +3,11 @@
   <groupId>edu.montana.gsoc.msusel</groupId>
   <artifactId>msusel-parent</artifactId>
   <versioning>
-    <release>1.2.0-idg</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.1.1</version>
       <version>1.2.0-idg</version>
     </versions>
-    <lastUpdated>20171223141821</lastUpdated>
+    <lastUpdated>20180101000515</lastUpdated>
   </versioning>
 </metadata>
