@@ -61,11 +61,11 @@
             <artifactId>msusel-codetree</artifactId>
             <version>1.2.0-idg</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>edu.montana.gsoc.msusel</groupId>-->
-            <!--<artifactId>msusel-loc-metrics</artifactId>-->
-            <!--<version>1.2.0-idg</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>edu.montana.gsoc.msusel</groupId>
+            <artifactId>msusel-loc-metrics</artifactId>
+            <version>1.2.0-idg</version>
+        </dependency>
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
