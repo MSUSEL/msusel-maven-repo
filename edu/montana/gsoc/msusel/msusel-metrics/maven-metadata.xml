@@ -3,10 +3,11 @@
   <groupId>edu.montana.gsoc.msusel</groupId>
   <artifactId>msusel-metrics</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.2.0-idg</release>
     <versions>
       <version>1.1.1</version>
+      <version>1.2.0-idg</version>
     </versions>
-    <lastUpdated>20180101035427</lastUpdated>
+    <lastUpdated>20180220232050</lastUpdated>
   </versioning>
 </metadata>
