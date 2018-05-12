@@ -198,6 +198,7 @@
                         <exclude>settings/**</exclude>
                         <exclude>*.iml</exclude>
                         <exclude>data/**</exclude>
+                        <exclude>site.xml</exclude>
                     </excludes>
                 </configuration>
                 <executions>
