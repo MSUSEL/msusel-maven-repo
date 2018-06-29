@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.montana.gsoc.msusel</groupId>
+  <artifactId>msusel-datamodel</artifactId>
+  <versioning>
+    <release>1.3.0-idg</release>
+    <versions>
+      <version>1.3.0-idg</version>
+    </versions>
+    <lastUpdated>20180629022853</lastUpdated>
+  </versioning>
+</metadata>
