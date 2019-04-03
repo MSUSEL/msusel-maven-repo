@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.isu.cs.isuese</groupId>
+  <artifactId>isuese-ghsearch</artifactId>
+  <versioning>
+    <release>1.3.0-idg</release>
+    <versions>
+      <version>1.3.0-idg</version>
+    </versions>
+    <lastUpdated>20190403210756</lastUpdated>
+  </versioning>
+</metadata>
